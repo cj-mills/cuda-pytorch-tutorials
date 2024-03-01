@@ -1,0 +1,37 @@
+/notebooks/.ipynb_checkpoints/*
+/notebooks/**/.ipynb_checkpoints/
+/notebooks/**/*.ttf
+/notebooks/**/*.xml
+/notebooks/*.ttf
+/notebooks/*.jpg
+/notebooks/*.png
+/notebooks/__pycache__/*
+
+# Image file formats
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+*.webp
+*.psd
+*.ai
+*.eps
+
+# Video file formats
+*.avi
+*.mp4
+*.mpeg
+*.mpg
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.ogv
+*.m4v
+*.3gp
+*.3g2
